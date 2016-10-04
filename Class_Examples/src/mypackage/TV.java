@@ -26,4 +26,9 @@ public class TV {	//was "chp8_classnotes"
 	public void turnOff(){
 		on = false;
 	}
+	
+	public static void main (String[]args){
+		System.out.println("Hi");	//testing github
+	}
+	
 }
